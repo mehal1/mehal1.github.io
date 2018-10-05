@@ -1,2 +1,1 @@
-# mehal1.github.io
-website
+# sharathbabusrinivas.github.io
